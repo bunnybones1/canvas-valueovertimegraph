@@ -1,0 +1,31 @@
+{
+  "name": "canvas-valueovertimegraph",
+  "version": "1.0.0",
+  "description": "Graphs values over time in canvas. Great for frames per second, but can be used for any values.",
+  "main": "index.js",
+  "license": "MIT",
+  "author": {
+    "name": "Tomasz Dysinski",
+    "email": "oz@bunnybones.com",
+    "url": "https://github.com/bunnybones1"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "beefy test.js --live --open"
+  },
+  "keywords": [
+    "fps",
+    "graph",
+    "time",
+    "canvas"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/bunnybones1/canvas-valueovertimegraph.git"
+  },
+  "homepage": "https://github.com/bunnybones1/canvas-valueovertimegraph",
+  "bugs": {
+    "url": "https://github.com/bunnybones1/canvas-valueovertimegraph/issues"
+  }
+}
